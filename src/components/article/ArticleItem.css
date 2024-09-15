@@ -1,0 +1,32 @@
+.fotter-article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.5s;
+}.card:hover{
+    transform: scale(1.05);
+
+}
+.card-text{
+    text-align: justify;
+    color: #444444;
+}
+.read-more{
+    margin-left: 5px;
+}
+.read-more:hover{
+    cursor: pointer;
+    color: #f54980;
+    }
+    .card-fotter{
+        color: #666 !important;
+    }
+    .card a{
+        text-decoration: none;
+        color: #484848;
+    }

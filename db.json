@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "JavaScript",
+      "desc": "lorem20",
+      "image": "https://dl.next1code.ir/images/react/article2.webp",
+      "readingTime": "10",
+      "category": "Program",
+      "writter": "siamak"
+    },
+    {
+      "id": "3",
+      "title": "WordPress,test",
+      "desc": "lorem20 hi",
+      "image": "https://dl.next1code.ir/images/react/article3.webp",
+      "readingTime": "16",
+      "category": "Program",
+      "writter": "siamak"
+    },
+    {
+      "id": "4",
+      "title": "WordPress",
+      "desc": "lorem20",
+      "image": "https://dl.next1code.ir/images/react/article4.webp",
+      "readingTime": "16",
+      "category": "Program",
+      "writter": "siamak"
+    },
+    {
+      "id": "6",
+      "title": "Java",
+      "desc": "lorem20",
+      "image": "https://dl.next1code.ir/images/react/article6.webp",
+      "readingTime": "35",
+      "category": "Program",
+      "writter": "siamak"
+    },
+    {
+      "id": "7",
+      "title": "Java-Backend",
+      "desc": "lorem20",
+      "image": "https://dl.next1code.ir/images/react/article7.webp",
+      "readingTime": "25",
+      "category": "Program",
+      "writter": "siamak"
+    }
+  ]
+}
